@@ -2,7 +2,7 @@
 
 This project demonstrates how to secure a .NET Web API using an API key included in the header. It also provides the necessary configuration for Swagger to authenticate and run API endpoints.
 
-[<img src="" width="50%">](https://github.com/iliass-git/dotnet-webapi-security/blob/main/DescriptiveVideo.mp4 "Api Key Auth")
+[<img src="https://github.com/iliass-git/dotnet-webapi-security/blob/main/Screenshot%202024-05-05%20124646.png" width="100%">](https://github.com/iliass-git/dotnet-webapi-security/blob/main/DescriptiveVideo.mp4 "Api Key Auth")
 
 
 ## Getting Started
